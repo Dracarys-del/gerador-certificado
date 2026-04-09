@@ -1,3 +1,8 @@
+body {
+  font-family: "Inter", sans-serif !important;
+  font-optical-sizing: auto !important;
+}
+
 .custom-title {
   font-weight: 700;
   font-size: 24px;
@@ -13,7 +18,7 @@
   line-height: 20px;
   letter-spacing: 0;
   text-align: center;
-  color: #647488;
+  color: #64748b;
 }
 
 .content-titles {
